@@ -7,7 +7,6 @@
     </linearGradient>
 
     <radialGradient id="glow" cx="82%" cy="45%" r="55%">
-      <stop offset="0%" stop-color="#D4A657" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#D4A657" stop-opacity="0"/>
     </radialGradient>
 
