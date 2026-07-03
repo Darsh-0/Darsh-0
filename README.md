@@ -73,9 +73,3 @@ I'm a third year software engineering student studying at the University of Cant
   <img src="https://streak-stats.demolab.com?user=Darsh-0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darsh-0&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="180" alt="github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-0&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="top languages"  />
-</div>
