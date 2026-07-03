@@ -19,9 +19,7 @@
 
 I'm a third year software engineering student studying at the University of Canterbury in **New Zealand**, looking for a summer internship.
 
-- 🤖 Building a full-stack [chess platform](https://github.com/Darsh-0) with a custom WASM chess engine and Stockfish support
-- 🥾 Built **TakeAHike!**, an interactive NZ hiking app using the ArcGIS API
-- 🏓 Programmed a real-time **multiplayer Pong** game on microcontrollers using IR communication
+- Building chess engine
 
 ###
 
