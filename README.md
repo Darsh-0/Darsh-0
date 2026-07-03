@@ -19,7 +19,7 @@
 
 I'm a third year software engineering student studying at the University of Canterbury in **New Zealand**, looking for a summer internship.
 
-- Building chess engine
+- Building a chess engine
 
 ###
 
